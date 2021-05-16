@@ -2,6 +2,7 @@
 # http://tinyurl.com/h9q2cpc
 # Thanks so much for reading my book. Feel free to contact me at cory[at]theselftaughtprogrammer.io.
 
+
 def hangman(word):
     wrong = 0
     stages = ["",
